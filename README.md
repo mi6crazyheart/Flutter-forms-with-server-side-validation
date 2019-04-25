@@ -1,16 +1,9 @@
-# flutter_forms
+# Flutter forms with server-side validation
 
-A new Flutter application.
+Here is a simple flutter form tutorial where I've shown 
+- how to create flutter forms & send form data to the server. 
+- how to receive the server response in flutter app & take action accordingly.
 
-## Getting Started
+Youtube explanation video: https://youtu.be/A-CIeC743pA
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
